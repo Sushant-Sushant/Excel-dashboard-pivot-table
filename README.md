@@ -1,7 +1,9 @@
 This project explores hotel cancellation patterns using Excel's powerful data analysis tools including Pivot Tables and Dashboards.
 
 Key Features:
+
 Data Analysis: Utilized Excel's Pivot Tables to summarize and analyze booking and cancellation trends.
+
 Visualization: Created interactive Dashboards to visualize key metrics and trends.
 Insights: Uncovered insights into factors influencing cancellation rates such as booking lead time, seasonality, and customer demographics.
 Practical Application: Demonstrated how Excel can be leveraged for in-depth hospitality industry analysis.
